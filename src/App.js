@@ -1,6 +1,7 @@
 import Components from "./Components";
 import Conditional from "./ConditionalRendering";
 import Loops from "./Loops";
+import Events from "./Events";
 
 export default function App() {
 	return (
@@ -11,6 +12,7 @@ export default function App() {
 			<hr />
 			<Loops />
 			<hr />
+			<Events />
 		</>
 	);
 }
