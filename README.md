@@ -2,4 +2,4 @@
 
 ### Installation
 
-- Install the dependencies using `npm install`.
+Install the dependencies using `npm install`.
