@@ -1,4 +1,5 @@
 # learning-react-somehow
+very ass, do not recommend looking
 
 ### Installation
 
