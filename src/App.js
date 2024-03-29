@@ -4,6 +4,7 @@ import Loops from "./Loops";
 import Events from "./Events";
 import State from "./State";
 import Effects from "./Effects";
+import Context from "./Context";
 
 export default function App() {
 	return (
@@ -19,6 +20,8 @@ export default function App() {
 			<State />
 			<hr />
 			<Effects />
+			<hr />
+			<Context />
 		</>
 	);
 }
